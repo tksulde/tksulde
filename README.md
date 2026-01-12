@@ -33,7 +33,7 @@ Beyond code, I explore research in decentralization, liquid staking, and interop
 
 <table><tr><td valign="top" width="50%">
 
-- I’m currently working on [Helix Labs](https://github.com/orgs/HelixLabsDev/dashboard)  
+- I’m currently working on AI porject
 
 - Building cross-chain DeFi vaults and gaming platforms
 
