@@ -20,12 +20,7 @@
 
 
 ### Glad to see you here!  
-I’m a frontend & Web3 developer passionate about turning ideas into scalable products. My journey started with building interfaces and grew into designing decentralized applications that combine clean user experiences with powerful blockchain backends.
-
-I specialize in crafting minimal, aesthetic frontends using Next.js, Tailwind CSS, and shadcn/ui, while also diving deep into Web3 technologies like Internet Computer (ICP), Ethereum, and cross-chain DeFi. I love working on systems that balance performance, usability, and trustlessness.
-
-Beyond code, I explore research in decentralization, liquid staking, and interoperability, and I’m constantly learning how design, product, and engineering intersect to create impactful products.  
-  
+Hi, I’m Suldé, a front-end engineer passionate about building clean, responsive, and user-friendly experiences, seeing life as a creative journey where every project is a step on my personal path of growth and exploration.
 
 <br/>  
 
