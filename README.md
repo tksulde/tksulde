@@ -1,71 +1,133 @@
 ## Hey 👋, I'm Munkhsuld!  
 
+<div align="center">
+
+```
+███╗   ███╗██╗   ██╗███╗   ██╗██╗  ██╗██╗  ██╗███████╗██╗   ██╗██╗     ██████╗
+████╗ ████║██║   ██║████╗  ██║██║ ██╔╝██║  ██║██╔════╝██║   ██║██║     ██╔══██╗
+██╔████╔██║██║   ██║██╔██╗ ██║█████╔╝ ███████║███████╗██║   ██║██║     ██║  ██║
+██║╚██╔╝██║██║   ██║██║╚██╗██║██╔═██╗ ██╔══██║╚════██║██║   ██║██║     ██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║  ██╗██║  ██║███████║╚██████╔╝███████╗██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚═════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%C2%B7+AI+Engineer+%C2%B7+Design+Engineer;building+at+the+intersection+of+intelligence+%26+design;21+y%2Fo+%C2%B7+Ulaanbaatar%2C+Mongolia+%F0%9F%87%B2%F0%9F%87%B3;architecture+first.+always." alt="Typing SVG" />
+
 <div align="center"><a> <img height="auto" width="auto" src="https://cdn.cosmos.so/47c0223f-c704-4d5a-8b47-c48262ebe301?format=jpeg" /></a></div>
 
-<a href="https://twitter.com/tksulde" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/munkhsuld-bayaraa-a00637336" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/tksulde" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-
-
-
-
-  
-
-
-
-### Glad to see you here!  
-Hi, I’m Suldé, a front-end engineer passionate about building clean, responsive, and user-friendly experiences, seeing life as a creative journey where every project is a step on my personal path of growth and exploration.
-
-<br/>  
-
-
-
-<table><tr><td valign="top" width="50%">
-
-- I’m currently working on AI porject
-
-- Building cross-chain DeFi vaults and gaming platforms
-
-- Exploring modular Web3 infrastructure & restaking
-
-- Improving my design, research, and piano skills
-
-
-</td></tr></table>  
-
-<br/>  
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
 <br/>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=tksulde&color=6ee7b7&style=flat-square&label=visitors)](https://github.com/tksulde)
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tksulde&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+---
 
-</td><td valign="top" width="50%">
+## ◈ who i am
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tksulde&hide_border=true&layout=compact" align="left" style="width: 100%" />
+i'm **munkhsuld** — a 21-year-old developer from **ulaanbaatar, mongolia** 🇲🇳 operating at the crossroads of **artificial intelligence**, **full stack engineering**, and **design**.
 
-</td></tr></table>  
+still early in the journey, but i try not to get too attached to any particular tool or language. i care more about understanding how things fit together — how data flows, how interfaces make complexity feel simple, how AI can actually be useful rather than just impressive.
 
-<br/>  
+i'm figuring it out as i go. what i try to hold onto:
 
-  
+- 🧠 &nbsp; understand the problem before reaching for a solution
+- 🎯 &nbsp; honest about what i don't know yet
+- 🌱 &nbsp; every project teaches me something the last one didn't
+- 🔁 &nbsp; learn → build → reflect → repeat
 
-<br/>  
+---
 
-![Profile views counter](https://komarev.com/ghpvc/?username=tksulde&&style=flat-square)  
-  
+## ◈ what i do
 
-<br/>  
+```
+AI Engineering        →   building systems that let humans talk to their data
+                          multi-agent pipelines, intent classification, LLM orchestration
+
+Full Stack Dev        →   end-to-end product ownership
+                          from database schema to pixel-perfect UI
+
+Design Engineering    →   where logic meets craft
+                          clean, responsive, performance-obsessed interfaces
+
+Data Infrastructure   →   pipelines, warehouses, dimensional models
+                          making raw data actually useful for decisions
+```
+
+---
+
+## ◈ current chapter
+
+right now i'm working on **decision intelligence** — AI-powered platforms that help organizations understand what's happening in their business. it's a domain i'm still learning, and there's a lot to figure out.
+
+i'm curious about how language models can make data more accessible, how agents can surface useful context without being asked, and how to build things that feel *genuinely helpful* rather than just technically clever.
+
+on the side: **web3**, **design systems**, and whatever rabbit hole is currently interesting.
+
+---
+
+## ◈ how i think about building
+
+> *software is a medium. the real work is understanding the problem well enough to model it simply.*
+
+i try to spend time thinking before typing. not always successfully — but the goal is to know:
+
+- what problem is actually being solved
+- where the real complexity lives
+- what the simplest honest version looks like
+
+i'm drawn to the edges between disciplines — AI and UX, data and design, engineering and product. that's where things get interesting, and also where i have the most to learn.
+
+---
+
+## ◈ beyond the terminal
+
+when i'm not building, i'm:
+
+- 📚 &nbsp; reading about systems, cognition, and how organizations make decisions
+- 🏃 &nbsp; into movement — physical discipline translates to mental discipline
+- 🌏 &nbsp; thinking about what it means to build technology from mongolia, for the world
+- 🎮 &nbsp; occasionally disappearing into games or late-night side project rabbit holes
+
+---
+
+## ◈ numbers
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tksulde&show_icons=true&theme=transparent&hide_border=true&title_color=6EE7B7&text_color=94a3b8&icon_color=6EE7B7&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tksulde&layout=compact&theme=transparent&hide_border=true&title_color=6EE7B7&text_color=94a3b8&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tksulde&theme=transparent&hide_border=true&stroke=6EE7B7&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+---
+
+## ◈ let's connect
+
+<div align="center">
+
+i'm always open to interesting conversations — about ideas, problems worth solving, or just building something cool together.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/sulde.space-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sulde.space)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulde.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/munkhsuld-bayaraa-a00637336))
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/YOUR_HANDLE](https://twitter.com/tksulde))
+
+<br/>
+
+<sub>built with intention · somewhere in ulaanbaatar · still learning</sub>
+
+</div>
+
+
 
